@@ -1,0 +1,95 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project configuration files
+#
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# User-specific files (VS Code)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode/clang.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Auto-generated binding projects
+*_i.c
+*_p.c
+*_i.h
+*.pdb
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# IDEs
+.idea/
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# TeamCity
+_TeamCity/
+
+# DotNetSonarQube
+.sonarqube/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Other
+.history/
+*.log
+*.ncache
+*.sln.ide
+
+# Tool-specific files
+*.DotSettings.user
+*.dotCover
+
+# Backup & report files from converting an old project file
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+
+# LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# End of `.gitignore` file
